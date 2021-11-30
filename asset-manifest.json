@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/taskforrouter/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/taskforrouter/static/js/main.35b52ec8.chunk.js",
+    "main.js.map": "/taskforrouter/static/js/main.35b52ec8.chunk.js.map",
+    "runtime-main.js": "/taskforrouter/static/js/runtime-main.dadac55a.js",
+    "runtime-main.js.map": "/taskforrouter/static/js/runtime-main.dadac55a.js.map",
+    "static/js/2.c559c71b.chunk.js": "/taskforrouter/static/js/2.c559c71b.chunk.js",
+    "static/js/2.c559c71b.chunk.js.map": "/taskforrouter/static/js/2.c559c71b.chunk.js.map",
+    "static/js/3.231c9f22.chunk.js": "/taskforrouter/static/js/3.231c9f22.chunk.js",
+    "static/js/3.231c9f22.chunk.js.map": "/taskforrouter/static/js/3.231c9f22.chunk.js.map",
+    "index.html": "/taskforrouter/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/taskforrouter/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c559c71b.chunk.js.LICENSE.txt": "/taskforrouter/static/js/2.c559c71b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dadac55a.js",
+    "static/js/2.c559c71b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.35b52ec8.chunk.js"
+  ]
+}
